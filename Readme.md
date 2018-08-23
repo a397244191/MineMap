@@ -46,9 +46,11 @@ Game Over
 ![](https://i.imgur.com/4y0ioh1.png)
 
 其他大小顯示
+
 中
 
 ![](https://i.imgur.com/HJAJ7eh.png)
+
 小
 
 ![](https://i.imgur.com/jqsiQfO.png)
