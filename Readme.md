@@ -49,6 +49,6 @@ Game Over
 中
 
 ![](https://i.imgur.com/HJAJ7eh.png)
-
 小
+
 ![](https://i.imgur.com/jqsiQfO.png)
